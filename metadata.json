@@ -1,0 +1,6 @@
+{
+  "name": "Aventura de Fracciones - I.E. Pablo Neruda",
+  "description": "Aplicación educativa gamificada para el aprendizaje y práctica de fracciones para estudiantes de grado séptimo de la I.E. Pablo Neruda (Docente: John Pestana).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
